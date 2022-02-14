@@ -10,6 +10,3 @@ npm-debug.log
 
 # for maintenance purposes - not best practices
 package-lock.json
-
-readme.md
-
